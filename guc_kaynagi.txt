@@ -1,0 +1,29 @@
+Partlist exported from C:/Users/kenan/OneDrive/Belgeler/EAGLE/projects/AGüç Kaynağı/Güç_Kaynağı.sch at 17.04.2023 02:42
+
+Part Value           Device        Package             Description                                        
+C1   2200u , 75V     CPOL-USE5-13  E5-13               POLARIZED CAPACITOR, American symbol               
+C2   10u, 75V        CPOL-USE5-13  E5-13               POLARIZED CAPACITOR, American symbol               
+D1   1N5408          1N5400        DO201-15            DIODE                                              
+D2   1N5408          1N5400        DO201-15            DIODE                                              
+D3   1N5408          1N5400        DO201-15            DIODE                                              
+D4   1N5408          1N5400        DO201-15            DIODE                                              
+D5   1N5408          1N5400        DO201-15            DIODE                                              
+D6   1N5408          1N5400        DO201-15            DIODE                                              
+D7   1N5408          1N5400        DO201-15            DIODE                                              
+D8   1N5400          1N5400        DO201-15            DIODE                                              
+D9   1N5408          1N5400        DO201-15            DIODE                                              
+J1                   TERMBLOCK_1X2 TERMBLOCK_1X2-3.5MM 3.5mm Terminal block                               
+J2                   TERMBLOCK_1X2 TERMBLOCK_1X2-3.5MM 3.5mm Terminal block                               
+J3                   TERMBLOCK_1X3 TERMBLOCK_1X3-3.5MM 3.5mm Terminal block                               
+KK1  SK104-PAD       SK104-PAD     SK104-PAD           HEATSINK manufacturer Fischer/distributor Buerklin 
+LED1                 LED5MM        LED5MM              LED                                                
+Q1   TIP127          TIP30         TO220               PNP Transistor                                     
+R1   6.8K            R-US_0411/15  0411/15             RESISTOR, American symbol                          
+R2   1 E,2W          R-US_0411/15  0411/15             RESISTOR, American symbol                          
+R3   2.2K ,0.5W      R-US_0411/15  0411/15             RESISTOR, American symbol                          
+R4   2.5K, 1W COARSE 3RP/1610G     3RP/1610G           16mm Potentiometer two level                       
+R5   2.5K, 1W COARSE 3RP/1610G     3RP/1610G           16mm Potentiometer two level                       
+R6   100E, 0.5W      R-US_0411/15  0411/15             RESISTOR, American symbol                          
+R7   10K , 1W        R-US_0411/15  0411/15             RESISTOR, American symbol                          
+S1                   320-938       320-938             TOGGLE SWITCH                                      
+U1   V_REG_317SINK   V_REG_317SINK TO220-ADJ           Voltage Regulator                                  
